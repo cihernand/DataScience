@@ -1,4 +1,7 @@
-# Directory Structure for data science projects build with init.sh
+# Directory Structure For Data Science Projects 
+
+Build with init.sh
+--------
 ```
 ├── config_venv.txt
 ├── data
@@ -28,8 +31,8 @@
     ├── models
     └── visualization
 ```    
-# Cookiecutter Data Science - directory structure with python
-
+Cookiecutter Data Science - directory structure with python
+--------
 ```
 
 ├── LICENSE
@@ -81,7 +84,7 @@
     
 # References
 
-* [Good enough practices in scientific computing] (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)*
-* [Cookiecutter] (http://drivendata.github.io/cookiecutter-data-science/)*
+**[Good enough practices in scientific computing] (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)**
+**[Cookiecutter] (http://drivendata.github.io/cookiecutter-data-science/)**
 A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 
