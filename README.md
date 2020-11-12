@@ -81,4 +81,7 @@
     
 # References
 
-[Good enough practices in scientific computing] (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+* [Good enough practices in scientific computing] (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)*
+* [Cookiecutter] (http://drivendata.github.io/cookiecutter-data-science/)*
+A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
+
