@@ -1,1 +1,9 @@
 # project_structure4data_science
+mkdir data
+mkdir data
+mkdir docs
+mkdir models
+mkdir notebooks
+mkdir references
+mkdir reports
+mkdir src
