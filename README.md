@@ -1,5 +1,5 @@
 # Directory Structure for data science projects build with init.sh
-
+```
 ├── config_venv.txt
 ├── data
 │   ├── external
@@ -27,8 +27,10 @@
     ├── features
     ├── models
     └── visualization
-    
+```    
 # Cookiecutter Data Science - directory structure with python
+
+```
 
 ├── LICENSE
 ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -74,6 +76,8 @@
 │       └── visualize.py
 │
 └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
+
+```
     
 # References
 
